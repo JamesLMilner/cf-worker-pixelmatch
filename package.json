@@ -19,21 +19,21 @@
     "@types/mocha": "^5.2.7",
     "assemblyscript": "git@github.com:AssemblyScript/assemblyscript.git",
     "chai": "^4.2.0",
-    "file-loader": "^4.2.0",
+    "file-loader": "^6.2.0",
     "mocha": "^6.1.4",
     "prettier": "^1.18.2",
     "service-worker-mock": "^2.0.3",
-    "source-map-loader": "^0.2.4",
+    "source-map-loader": "^4.0.1",
     "source-map-support": "^0.5.12",
-    "ts-loader": "^6.0.4",
+    "ts-loader": "^9.4.2",
     "typescript": "^3.5.3",
-    "webpack": "^4.35.3",
-    "webpack-cli": "^3.3.6"
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
   },
   "dependencies": {
     "@types/pngjs": "^3.3.2",
     "base64-arraybuffer": "^0.2.0",
-    "copy-webpack-plugin": "^5.0.4",
+    "copy-webpack-plugin": "^11.0.0",
     "pngjs": "^3.4.0",
     "sinon": "^7.4.2",
     "string-to-stream": "^3.0.1"
